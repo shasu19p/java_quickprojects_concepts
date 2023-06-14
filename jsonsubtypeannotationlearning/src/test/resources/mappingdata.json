@@ -1,0 +1,8 @@
+{
+	"name": "cd",
+	"vehicle": {
+		"name": "bikename",
+		"modelYear": "2022",
+		"type": "bike"
+	}
+}
